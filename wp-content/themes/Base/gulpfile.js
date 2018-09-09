@@ -42,7 +42,7 @@
      // server: {
      //   baseDir: "./"
      // }
-     proxy: "localhost:8080/WordPressSite/",
+     proxy: "localhost:8000/",
  		//notify: false
    });
  });
